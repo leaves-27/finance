@@ -7,8 +7,8 @@
    <xml>
     <o:DocumentProperties>
      <o:Created>2024-05-14T10:28:44</o:Created>
-     <o:LastAuthor>冬阳</o:LastAuthor>
-     <o:LastSaved>2024-05-14T10:49:39</o:LastSaved>
+     <o:LastAuthor>leaves-27</o:LastAuthor>
+     <o:LastSaved>2024-06-17T06:57:42</o:LastSaved>
     </o:DocumentProperties>
     <o:CustomDocumentProperties>
      <o:ICV dt:dt="string">C84C3D4FA1A6FA45CDCC42661287991F</o:ICV>
@@ -75,24 +75,6 @@ br
 	mso-generic-font-family:auto;
 	mso-font-charset:0;}
 .font5
-	{color:#000000;
-	font-size:11.0pt;
-	font-weight:400;
-	font-style:normal;
-	text-decoration:none;
-	font-family:"宋体";
-	mso-generic-font-family:auto;
-	mso-font-charset:0;}
-.font6
-	{color:#44546A;
-	font-size:13.0pt;
-	font-weight:700;
-	font-style:normal;
-	text-decoration:none;
-	font-family:"宋体";
-	mso-generic-font-family:auto;
-	mso-font-charset:134;}
-.font7
 	{color:#FFFFFF;
 	font-size:11.0pt;
 	font-weight:400;
@@ -101,8 +83,8 @@ br
 	font-family:"宋体";
 	mso-generic-font-family:auto;
 	mso-font-charset:0;}
-.font8
-	{color:#FF0000;
+.font6
+	{color:#000000;
 	font-size:11.0pt;
 	font-weight:400;
 	font-style:normal;
@@ -110,16 +92,26 @@ br
 	font-family:"宋体";
 	mso-generic-font-family:auto;
 	mso-font-charset:0;}
-.font9
-	{color:#44546A;
-	font-size:18.0pt;
+.font7
+	{color:#0000FF;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:underline;
+	text-underline-style:single;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font8
+	{color:#000000;
+	font-size:11.0pt;
 	font-weight:700;
 	font-style:normal;
 	text-decoration:none;
 	font-family:"宋体";
 	mso-generic-font-family:auto;
-	mso-font-charset:134;}
-.font10
+	mso-font-charset:0;}
+.font9
 	{color:#800080;
 	font-size:11.0pt;
 	font-weight:400;
@@ -129,7 +121,25 @@ br
 	font-family:"宋体";
 	mso-generic-font-family:auto;
 	mso-font-charset:134;}
+.font10
+	{color:#44546A;
+	font-size:18.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
 .font11
+	{color:#44546A;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font12
 	{color:#7F7F7F;
 	font-size:11.0pt;
 	font-weight:400;
@@ -138,15 +148,6 @@ br
 	font-family:"宋体";
 	mso-generic-font-family:auto;
 	mso-font-charset:0;}
-.font12
-	{color:#44546A;
-	font-size:15.0pt;
-	font-weight:700;
-	font-style:normal;
-	text-decoration:none;
-	font-family:"宋体";
-	mso-generic-font-family:auto;
-	mso-font-charset:134;}
 .font13
 	{color:#3F3F3F;
 	font-size:11.0pt;
@@ -157,7 +158,7 @@ br
 	mso-generic-font-family:auto;
 	mso-font-charset:0;}
 .font14
-	{color:#FA7D00;
+	{color:#FFFFFF;
 	font-size:11.0pt;
 	font-weight:700;
 	font-style:normal;
@@ -166,43 +167,15 @@ br
 	mso-generic-font-family:auto;
 	mso-font-charset:0;}
 .font15
-	{color:#0000FF;
+	{color:#FF0000;
 	font-size:11.0pt;
 	font-weight:400;
 	font-style:normal;
-	text-decoration:underline;
-	text-underline-style:single;
+	text-decoration:none;
 	font-family:"宋体";
 	mso-generic-font-family:auto;
-	mso-font-charset:134;}
+	mso-font-charset:0;}
 .font16
-	{color:#44546A;
-	font-size:11.0pt;
-	font-weight:700;
-	font-style:normal;
-	text-decoration:none;
-	font-family:"宋体";
-	mso-generic-font-family:auto;
-	mso-font-charset:134;}
-.font17
-	{color:#000000;
-	font-size:11.0pt;
-	font-weight:700;
-	font-style:normal;
-	text-decoration:none;
-	font-family:"宋体";
-	mso-generic-font-family:auto;
-	mso-font-charset:0;}
-.font18
-	{color:#006100;
-	font-size:11.0pt;
-	font-weight:400;
-	font-style:normal;
-	text-decoration:none;
-	font-family:"宋体";
-	mso-generic-font-family:auto;
-	mso-font-charset:0;}
-.font19
 	{color:#3F3F76;
 	font-size:11.0pt;
 	font-weight:400;
@@ -211,8 +184,26 @@ br
 	font-family:"宋体";
 	mso-generic-font-family:auto;
 	mso-font-charset:0;}
-.font20
-	{color:#9C0006;
+.font17
+	{color:#44546A;
+	font-size:13.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
+.font18
+	{color:#FA7D00;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;}
+.font19
+	{color:#006100;
 	font-size:11.0pt;
 	font-weight:400;
 	font-style:normal;
@@ -220,6 +211,15 @@ br
 	font-family:"宋体";
 	mso-generic-font-family:auto;
 	mso-font-charset:0;}
+.font20
+	{color:#44546A;
+	font-size:15.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"宋体";
+	mso-generic-font-family:auto;
+	mso-font-charset:134;}
 .font21
 	{color:#9C6500;
 	font-size:11.0pt;
@@ -230,9 +230,9 @@ br
 	mso-generic-font-family:auto;
 	mso-font-charset:0;}
 .font22
-	{color:#FFFFFF;
+	{color:#9C0006;
 	font-size:11.0pt;
-	font-weight:700;
+	font-weight:400;
 	font-style:normal;
 	text-decoration:none;
 	font-family:"宋体";
@@ -244,15 +244,12 @@ br
 	vertical-align:middle;
 	white-space:nowrap;
 	mso-rotate:0;
-	mso-pattern:auto;
-	mso-background-source:auto;
 	color:#000000;
 	font-size:11.0pt;
 	font-weight:400;
 	font-style:normal;
 	text-decoration:none;
 	font-family:宋体;
-	mso-generic-font-family:auto;
 	mso-font-charset:134;
 	border:none;
 	mso-protection:locked visible;
@@ -267,7 +264,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:宋体;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"60% - 强调文字颜色 6";}
 .style17
@@ -279,7 +275,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:宋体;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"20% - 强调文字颜色 4";}
 .style18
@@ -291,7 +286,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:宋体;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"强调文字颜色 4";}
 .style19
@@ -303,7 +297,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:宋体;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	border:.5pt solid #7F7F7F;
 	mso-style-name:"输入";}
@@ -316,7 +309,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:宋体;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"40% - 强调文字颜色 3";}
 .style21
@@ -328,11 +320,10 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:宋体;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"20% - 强调文字颜色 3";}
 .style22
-	{mso-number-format:"_ \0022\00A5\0022* \#\,\#\#0\.00_ \;_ \0022\00A5\0022* \\-\#\,\#\#0\.00_ \;_ \0022\00A5\0022* \0022-\0022??_ \;_ \@_ ";
+	{mso-number-format:"_ \\¥* \#\,\#\#0\.00_ \;_ \\¥* \\-\#\,\#\#0\.00_ \;_ \\¥* \0022-\0022??_ \;_ \@_ ";
 	mso-style-name:"货币";
 	mso-style-id:4;}
 .style23
@@ -344,7 +335,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:宋体;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"强调文字颜色 3";}
 .style24
@@ -360,7 +350,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:宋体;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"60% - 强调文字颜色 2";}
 .style26
@@ -372,7 +361,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:宋体;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"60% - 强调文字颜色 5";}
 .style27
@@ -384,7 +372,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:宋体;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"强调文字颜色 2";}
 .style28
@@ -396,7 +383,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:宋体;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"60% - 强调文字颜色 1";}
 .style29
@@ -408,7 +394,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:宋体;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"60% - 强调文字颜色 4";}
 .style30
@@ -420,7 +405,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:宋体;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	border:.5pt solid #7F7F7F;
 	mso-style-name:"计算";}
@@ -433,7 +417,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:宋体;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"强调文字颜色 1";}
 .style32
@@ -445,7 +428,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:宋体;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"适中";}
 .style33
@@ -457,7 +439,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:宋体;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"20% - 强调文字颜色 5";}
 .style34
@@ -469,7 +450,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:宋体;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"好";}
 .style35
@@ -481,7 +461,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:宋体;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"20% - 强调文字颜色 1";}
 .style36
@@ -491,7 +470,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:宋体;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	border-top:.5pt solid #5B9BD5;
 	border-bottom:2.0pt double #5B9BD5;
@@ -505,7 +483,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:宋体;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"差";}
 .style38
@@ -517,7 +494,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:宋体;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	border:2.0pt double #3F3F3F;
 	mso-style-name:"检查单元格";}
@@ -530,7 +506,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:宋体;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	border:.5pt solid #3F3F3F;
 	mso-style-name:"输出";}
@@ -541,7 +516,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:宋体;
-	mso-generic-font-family:auto;
 	mso-font-charset:134;
 	border-bottom:1.0pt solid #5B9BD5;
 	mso-style-name:"标题 1";}
@@ -552,7 +526,6 @@ br
 	font-style:italic;
 	text-decoration:none;
 	font-family:宋体;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"解释性文本";}
 .style42
@@ -564,7 +537,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:宋体;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"20% - 强调文字颜色 2";}
 .style43
@@ -574,11 +546,10 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:宋体;
-	mso-generic-font-family:auto;
 	mso-font-charset:134;
 	mso-style-name:"标题 4";}
 .style44
-	{mso-number-format:"_ \0022\00A5\0022* \#\,\#\#0_ \;_ \0022\00A5\0022* \\-\#\,\#\#0_ \;_ \0022\00A5\0022* \0022-\0022_ \;_ \@_ ";
+	{mso-number-format:"_ \\¥* \#\,\#\#0_ \;_ \\¥* \\-\#\,\#\#0_ \;_ \\¥* \0022-\0022_ \;_ \@_ ";
 	mso-style-name:"货币[0]";
 	mso-style-id:7;}
 .style45
@@ -590,7 +561,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:宋体;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"40% - 强调文字颜色 4";}
 .style46
@@ -612,7 +582,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:宋体;
-	mso-generic-font-family:auto;
 	mso-font-charset:134;
 	mso-style-name:"标题";}
 .style49
@@ -624,7 +593,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:宋体;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"40% - 强调文字颜色 2";}
 .style50
@@ -634,7 +602,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:宋体;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"警告文本";}
 .style51
@@ -646,7 +613,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:宋体;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"60% - 强调文字颜色 3";}
 .style52
@@ -663,7 +629,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:宋体;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"20% - 强调文字颜色 6";}
 .style54
@@ -675,7 +640,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:宋体;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"强调文字颜色 5";}
 .style55
@@ -687,7 +651,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:宋体;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"40% - 强调文字颜色 6";}
 .style56
@@ -709,7 +672,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:宋体;
-	mso-generic-font-family:auto;
 	mso-font-charset:134;
 	border-bottom:1.0pt solid #5B9BD5;
 	mso-style-name:"标题 2";}
@@ -722,7 +684,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:宋体;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"40% - 强调文字颜色 5";}
 .style60
@@ -732,7 +693,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:宋体;
-	mso-generic-font-family:auto;
 	mso-font-charset:134;
 	border-bottom:1.0pt solid #ACCCEA;
 	mso-style-name:"标题 3";}
@@ -745,7 +705,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:宋体;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"强调文字颜色 6";}
 .style62
@@ -757,7 +716,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:宋体;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	mso-style-name:"40% - 强调文字颜色 1";}
 .style63
@@ -767,7 +725,6 @@ br
 	font-style:normal;
 	text-decoration:none;
 	font-family:宋体;
-	mso-generic-font-family:auto;
 	mso-font-charset:0;
 	border-bottom:2.0pt double #FF8001;
 	mso-style-name:"链接单元格";}
@@ -782,15 +739,12 @@ td
 	vertical-align:middle;
 	white-space:nowrap;
 	mso-rotate:0;
-	mso-pattern:auto;
-	mso-background-source:auto;
 	color:#000000;
 	font-size:11.0pt;
 	font-weight:400;
 	font-style:normal;
 	text-decoration:none;
 	font-family:宋体;
-	mso-generic-font-family:auto;
 	mso-font-charset:134;
 	border:none;
 	mso-protection:locked visible;}
@@ -900,21 +854,21 @@ td
        <x:Name>近10年投入资本回报率--港股</x:Name>
        <x:WorksheetOptions>
         <x:DefaultRowHeight>336</x:DefaultRowHeight>
-        <x:StandardWidth>2363</x:StandardWidth>
+        <x:StandardWidth>2360</x:StandardWidth>
         <x:Selected/>
         <x:FreezePanes/>
         <x:FrozenNoSplit/>
         <x:SplitHorizontal>1</x:SplitHorizontal>
         <x:TopRowBottomPane>1</x:TopRowBottomPane>
         <x:SplitVertical>2</x:SplitVertical>
-        <x:LeftColumnRightPane>4</x:LeftColumnRightPane>
+        <x:LeftColumnRightPane>2</x:LeftColumnRightPane>
         <x:ActivePane>0</x:ActivePane>
         <x:Panes>
          <x:Pane>
           <x:Number>0</x:Number>
-          <x:ActiveCol>5</x:ActiveCol>
-          <x:ActiveRow>587</x:ActiveRow>
-          <x:RangeSelection>F588</x:RangeSelection>
+          <x:ActiveCol>2</x:ActiveCol>
+          <x:ActiveRow>249</x:ActiveRow>
+          <x:RangeSelection>C250</x:RangeSelection>
          </x:Pane>
          <x:Pane>
           <x:Number>1</x:Number>
@@ -931,6 +885,7 @@ td
         <x:ProtectContents>False</x:ProtectContents>
         <x:ProtectObjects>False</x:ProtectObjects>
         <x:ProtectScenarios>False</x:ProtectScenarios>
+        <x:PageBreakZoom>100</x:PageBreakZoom>
         <x:Print>
          <x:PaperSizeIndex>9</x:PaperSizeIndex>
         </x:Print>
@@ -939,6 +894,7 @@ td
      </x:ExcelWorksheets>
      <x:ProtectStructure>False</x:ProtectStructure>
      <x:ProtectWindows>False</x:ProtectWindows>
+     <x:SelectedSheets>0</x:SelectedSheets>
      <x:WindowHeight>12760</x:WindowHeight>
      <x:WindowWidth>27180</x:WindowWidth>
     </x:ExcelWorkbook>
@@ -952,29 +908,29 @@ td
   <![endif]-->
  </head>
  <body link="blue" vlink="purple">
-  <table width="2013.35" border="0" cellpadding="0" cellspacing="0" style='width:2013.35pt;border-collapse:collapse;table-layout:fixed;'>
-   <col width="49.65" style='mso-width-source:userset;mso-width-alt:2420;'/>
-   <col width="93.80" style='mso-width-source:userset;mso-width-alt:4573;'/>
-   <col width="112.50" style='mso-width-source:userset;mso-width-alt:5485;'/>
-   <col width="159.80" span="10" style='mso-width-source:userset;mso-width-alt:7791;'/>
-   <col width="95" style='mso-width-source:userset;mso-width-alt:4632;'/>
-   <col width="64.40" style='mso-width-source:userset;mso-width-alt:3140;'/>
+  <table width="1993.85" border="0" cellpadding="0" cellspacing="0" style='width:1993.85pt;border-collapse:collapse;table-layout:fixed;'>
+   <col width="49.15" style='mso-width-source:userset;mso-width-alt:2396;'/>
+   <col width="92.90" style='mso-width-source:userset;mso-width-alt:4529;'/>
+   <col width="111.40" style='mso-width-source:userset;mso-width-alt:5431;'/>
+   <col width="158.25" span="10" style='mso-width-source:userset;mso-width-alt:7716;'/>
+   <col width="94.10" style='mso-width-source:userset;mso-width-alt:4588;'/>
+   <col width="63.80" style='mso-width-source:userset;mso-width-alt:3110;'/>
    <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl65" height="16.80" width="49.65" style='height:16.80pt;width:49.65pt;' x:str>股票代码</td>
-    <td class="xl65" width="93.80" style='width:93.80pt;' x:str>股票简称</td>
-    <td class="xl65" width="112.50" style='width:112.50pt;' x:str>最新价(港元)2024.05.14</td>
-    <td class="xl65" width="159.80" style='width:159.80pt;' x:str>投入资本回报率(%)2023财年4季报</td>
-    <td class="xl65" width="159.80" style='width:159.80pt;' x:str>投入资本回报率(%)2022财年4季报</td>
-    <td class="xl65" width="159.80" style='width:159.80pt;' x:str>投入资本回报率(%)2021财年4季报</td>
-    <td class="xl65" width="159.80" style='width:159.80pt;' x:str>投入资本回报率(%)2020财年4季报</td>
-    <td class="xl65" width="159.80" style='width:159.80pt;' x:str>投入资本回报率(%)2019财年4季报</td>
-    <td class="xl65" width="159.80" style='width:159.80pt;' x:str>投入资本回报率(%)2018财年4季报</td>
-    <td class="xl65" width="159.80" style='width:159.80pt;' x:str>投入资本回报率(%)2017财年4季报</td>
-    <td class="xl65" width="159.80" style='width:159.80pt;' x:str>投入资本回报率(%)2016财年4季报</td>
-    <td class="xl65" width="159.80" style='width:159.80pt;' x:str>投入资本回报率(%)2015财年4季报</td>
-    <td class="xl65" width="159.80" style='width:159.80pt;' x:str>投入资本回报率(%)2014财年4季报</td>
-    <td class="xl65" width="95" x:autofilter="custom" x:autofiltervalue="=工用运输" x:autofilterrange="$N$1:N2637" style='width:95.00pt;' x:str>所属恒生行业(二级)</td>
-    <td class="xl65" width="64.40" style='width:64.40pt;' x:str>所属恒生行业</td>
+    <td class="xl65" height="16.80" width="49.15" style='height:16.80pt;width:49.15pt;' x:str>股票代码</td>
+    <td class="xl65" width="92.90" style='width:92.90pt;' x:str>股票简称</td>
+    <td class="xl65" width="111.40" style='width:111.40pt;' x:str>最新价(港元)2024.05.14</td>
+    <td class="xl65" width="158.25" style='width:158.25pt;' x:str>投入资本回报率(%)2023财年4季报</td>
+    <td class="xl65" width="158.25" style='width:158.25pt;' x:str>投入资本回报率(%)2022财年4季报</td>
+    <td class="xl65" width="158.25" style='width:158.25pt;' x:str>投入资本回报率(%)2021财年4季报</td>
+    <td class="xl65" width="158.25" style='width:158.25pt;' x:str>投入资本回报率(%)2020财年4季报</td>
+    <td class="xl65" width="158.25" style='width:158.25pt;' x:str>投入资本回报率(%)2019财年4季报</td>
+    <td class="xl65" width="158.25" style='width:158.25pt;' x:str>投入资本回报率(%)2018财年4季报</td>
+    <td class="xl65" width="158.25" style='width:158.25pt;' x:str>投入资本回报率(%)2017财年4季报</td>
+    <td class="xl65" width="158.25" style='width:158.25pt;' x:str>投入资本回报率(%)2016财年4季报</td>
+    <td class="xl65" width="158.25" style='width:158.25pt;' x:str>投入资本回报率(%)2015财年4季报</td>
+    <td class="xl65" width="158.25" style='width:158.25pt;' x:str>投入资本回报率(%)2014财年4季报</td>
+    <td class="xl65" width="94.10" x:autofilter="custom" x:autofiltervalue="=食物饮品" x:autofilterrange="$N$1:N2637" style='width:94.10pt;' x:str>所属恒生行业(二级)</td>
+    <td class="xl65" width="63.80" style='width:63.80pt;' x:str>所属恒生行业</td>
    </tr>
    <tr height="0" style='height:0.00pt;display:none;'>
     <td class="xl66" height="0" style='height:0.00pt;' x:str>1400.HK</td>
@@ -1061,8 +1017,8 @@ td
     <td class="xl66" x:str>资讯科技器材</td>
     <td class="xl66" x:str>资讯科技业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>8496.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>8496.HK</td>
     <td class="xl66" x:str>环球友饮智能</td>
     <td class="xl67" x:num>0.34</td>
     <td class="xl67" x:num>361.54</td>
@@ -1248,8 +1204,8 @@ td
     <td class="xl66" x:str>资讯科技器材</td>
     <td class="xl66" x:str>资讯科技业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>2555.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>2555.HK</td>
     <td class="xl66" x:str>茶百道</td>
     <td class="xl67" x:num>10.38</td>
     <td class="xl67" x:num>154.61</td>
@@ -1588,8 +1544,8 @@ td
     <td class="xl66" x:str>纺织及服饰</td>
     <td class="xl66" x:str>非必需性消费</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>6979.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>6979.HK</td>
     <td class="xl66" x:str>珍酒李渡</td>
     <td class="xl67" x:num="11.199999999999999">11.20</td>
     <td class="xl67" x:num="52.100000000000001">52.10</td>
@@ -1741,8 +1697,8 @@ td
     <td class="xl66" x:str>旅游及消闲设施</td>
     <td class="xl66" x:str>非必需性消费</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>9633.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>9633.HK</td>
     <td class="xl68" x:str>农夫山泉</td>
     <td class="xl67" x:num>46.55</td>
     <td class="xl69" x:num>41.51</td>
@@ -2115,8 +2071,8 @@ td
     <td class="xl66" x:str>家庭电器及用品</td>
     <td class="xl66" x:str>非必需性消费</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>1497.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>1497.HK</td>
     <td class="xl66" x:str>燕之屋</td>
     <td class="xl67" x:num>8.85</td>
     <td class="xl67" x:num>32.27</td>
@@ -2285,8 +2241,8 @@ td
     <td class="xl66" x:str>支援服务</td>
     <td class="xl66" x:str>非必需性消费</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>1823.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>1823.HK</td>
     <td class="xl66" x:str>华昱高速</td>
     <td class="xl67" x:num>0.88</td>
     <td class="xl67" x:num>29.28</td>
@@ -2710,8 +2666,8 @@ td
     <td class="xl66" x:str>家庭电器及用品</td>
     <td class="xl66" x:str>非必需性消费</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>8476.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>8476.HK</td>
     <td class="xl66" x:str>大洋环球控股</td>
     <td class="xl67" x:num>1.99</td>
     <td class="xl67" x:num>23.73</td>
@@ -2727,8 +2683,8 @@ td
     <td class="xl66" x:str>食物饮品</td>
     <td class="xl66" x:str>必需性消费</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>1308.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>1308.HK</td>
     <td class="xl66" x:str>海丰国际</td>
     <td class="xl67" x:num>19.84</td>
     <td class="xl67" x:num>23.59</td>
@@ -3713,8 +3669,8 @@ td
     <td class="xl66" x:str>工用支援</td>
     <td class="xl66" x:str>工业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>1579.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>1579.HK</td>
     <td class="xl71" x:str>颐海国际</td>
     <td class="xl67" x:num>18.34</td>
     <td class="xl72" x:num>18.66</td>
@@ -3985,8 +3941,8 @@ td
     <td class="xl66" x:str>--</td>
     <td class="xl66" x:str>资讯科技业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>2147.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>2147.HK</td>
     <td class="xl66" x:str>正味集团</td>
     <td class="xl67" x:num>0.15</td>
     <td class="xl67" x:num>17.78</td>
@@ -4257,8 +4213,8 @@ td
     <td class="xl66" x:str>工业工程</td>
     <td class="xl66" x:str>工业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>1705.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>1705.HK</td>
     <td class="xl66" x:str>宾仕国际</td>
     <td class="xl67" x:num>0.32</td>
     <td class="xl67" x:num>17.02</td>
@@ -4478,8 +4434,8 @@ td
     <td class="xl66" x:str>半导体</td>
     <td class="xl66" x:str>资讯科技业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>0291.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>0291.HK</td>
     <td class="xl66" x:str>华润啤酒</td>
     <td class="xl67" x:num="38.200000000000003">38.20</td>
     <td class="xl67" x:num>16.22</td>
@@ -4563,8 +4519,8 @@ td
     <td class="xl66" x:str>软件服务</td>
     <td class="xl66" x:str>资讯科技业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>0168.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>0168.HK</td>
     <td class="xl66" x:str>青岛啤酒股份</td>
     <td class="xl67" x:num="61.200000000000003">61.20</td>
     <td class="xl67" x:num>16.02</td>
@@ -4699,8 +4655,8 @@ td
     <td class="xl66" x:str>药品及生物科技</td>
     <td class="xl66" x:str>医疗保健业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>0151.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>0151.HK</td>
     <td class="xl66" x:str>中国旺旺</td>
     <td class="xl67" x:num>4.69</td>
     <td class="xl67" x:num>15.49</td>
@@ -4835,8 +4791,8 @@ td
     <td class="xl66" x:str>药品及生物科技</td>
     <td class="xl66" x:str>医疗保健业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>9985.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>9985.HK</td>
     <td class="xl66" x:str>卫龙美味</td>
     <td class="xl67" x:num>5.89</td>
     <td class="xl67" x:num>15.21</td>
@@ -4988,8 +4944,8 @@ td
     <td class="xl66" x:str>建筑</td>
     <td class="xl66" x:str>地产建筑业</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>2682.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>2682.HK</td>
     <td class="xl66" x:str>润利海事</td>
     <td class="xl67" x:num="0.20000000000000001">0.20</td>
     <td class="xl67" x:num="14.800000000000001">14.80</td>
@@ -5192,8 +5148,8 @@ td
     <td class="xl66" x:str>药品及生物科技</td>
     <td class="xl66" x:str>医疗保健业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>0506.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>0506.HK</td>
     <td class="xl66" x:str>中国食品</td>
     <td class="xl67" x:num>3.04</td>
     <td class="xl67" x:num>14.43</td>
@@ -5719,8 +5675,8 @@ td
     <td class="xl66" x:str>家庭电器及用品</td>
     <td class="xl66" x:str>非必需性消费</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>6055.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>6055.HK</td>
     <td class="xl66" x:str>中烟香港</td>
     <td class="xl67" x:num>12.82</td>
     <td class="xl67" x:num>13.17</td>
@@ -5753,8 +5709,8 @@ td
     <td class="xl66" x:str>一般金属及矿石</td>
     <td class="xl66" x:str>原材料业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>6186.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>6186.HK</td>
     <td class="xl70" x:str>中国飞鹤</td>
     <td class="xl67" x:num>4.59</td>
     <td class="xl67" x:num>13.14</td>
@@ -5855,8 +5811,8 @@ td
     <td class="xl66" x:str>家庭电器及用品</td>
     <td class="xl66" x:str>非必需性消费</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>0236.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>0236.HK</td>
     <td class="xl66" x:str>香港生力啤</td>
     <td class="xl67" x:num>0.93</td>
     <td class="xl67" x:num="13">13.00</td>
@@ -5889,8 +5845,8 @@ td
     <td class="xl66" x:str>医疗保健设备和服务</td>
     <td class="xl66" x:str>医疗保健业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>0546.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>0546.HK</td>
     <td class="xl66" x:str>阜丰集团</td>
     <td class="xl67" x:num>6.25</td>
     <td class="xl67" x:num>12.97</td>
@@ -5991,8 +5947,8 @@ td
     <td class="xl66" x:str>建筑</td>
     <td class="xl66" x:str>地产建筑业</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>9956.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>9956.HK</td>
     <td class="xl66" x:str>安能物流</td>
     <td class="xl67" x:num>5.87</td>
     <td class="xl67" x:num>12.84</td>
@@ -6212,8 +6168,8 @@ td
     <td class="xl66" x:str>家庭电器及用品</td>
     <td class="xl66" x:str>非必需性消费</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>2057.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>2057.HK</td>
     <td class="xl66" x:str>中通快递-W</td>
     <td class="xl67" x:num="173">173.00</td>
     <td class="xl67" x:num>12.43</td>
@@ -6229,8 +6185,8 @@ td
     <td class="xl66" x:str>工用运输</td>
     <td class="xl66" x:str>工业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>1152.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>1152.HK</td>
     <td class="xl66" x:str>正乾金融控股</td>
     <td class="xl67" x:num>0.05</td>
     <td class="xl67" x:num>12.42</td>
@@ -6314,8 +6270,8 @@ td
     <td class="xl66" x:str>媒体及娱乐</td>
     <td class="xl66" x:str>非必需性消费</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>8502.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>8502.HK</td>
     <td class="xl66" x:str>远航港口</td>
     <td class="xl67" x:num="0.29999999999999999">0.30</td>
     <td class="xl67" x:num>12.34</td>
@@ -6450,8 +6406,8 @@ td
     <td class="xl66" x:str>建筑</td>
     <td class="xl66" x:str>地产建筑业</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>6198.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>6198.HK</td>
     <td class="xl66" x:str>青岛港</td>
     <td class="xl67" x:num>5.53</td>
     <td class="xl67" x:num="12.1">12.10</td>
@@ -6586,8 +6542,8 @@ td
     <td class="xl66" x:str>支援服务</td>
     <td class="xl66" x:str>非必需性消费</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>0220.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>0220.HK</td>
     <td class="xl66" x:str>统一企业中国</td>
     <td class="xl67" x:num>7.16</td>
     <td class="xl67" x:num>11.77</td>
@@ -6654,8 +6610,8 @@ td
     <td class="xl66" x:str>药品及生物科技</td>
     <td class="xl66" x:str>医疗保健业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>1837.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>1837.HK</td>
     <td class="xl66" x:str>五谷磨房</td>
     <td class="xl67" x:num>0.64</td>
     <td class="xl67" x:num>11.57</td>
@@ -7062,8 +7018,8 @@ td
     <td class="xl66" x:str>药品及生物科技</td>
     <td class="xl66" x:str>医疗保健业</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>2490.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>2490.HK</td>
     <td class="xl66" x:str>乐舱物流</td>
     <td class="xl67" x:num>18.02</td>
     <td class="xl67" x:num>11.15</td>
@@ -7130,8 +7086,8 @@ td
     <td class="xl66" x:str>纺织及服饰</td>
     <td class="xl66" x:str>非必需性消费</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>0316.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>0316.HK</td>
     <td class="xl66" x:str>东方海外国际</td>
     <td class="xl67" x:num="135.80000000000001">135.80</td>
     <td class="xl67" x:num="11.1">11.10</td>
@@ -7470,8 +7426,8 @@ td
     <td class="xl66" x:str>旅游及消闲设施</td>
     <td class="xl66" x:str>非必需性消费</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>0322.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>0322.HK</td>
     <td class="xl66" x:str>康师傅控股</td>
     <td class="xl67" x:num>10.16</td>
     <td class="xl67" x:num>10.64</td>
@@ -7912,8 +7868,8 @@ td
     <td class="xl66" x:str>纺织及服饰</td>
     <td class="xl66" x:str>非必需性消费</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>2218.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>2218.HK</td>
     <td class="xl66" x:str>安德利果汁</td>
     <td class="xl67" x:num="8.3000000000000007">8.30</td>
     <td class="xl67" x:num>10.16</td>
@@ -8116,8 +8072,8 @@ td
     <td class="xl66" x:str>旅游及消闲设施</td>
     <td class="xl66" x:str>非必需性消费</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>1919.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>1919.HK</td>
     <td class="xl66" x:str>中远海控</td>
     <td class="xl67" x:num>12.34</td>
     <td class="xl67" x:num>9.88</td>
@@ -8235,8 +8191,8 @@ td
     <td class="xl66" x:str>地产</td>
     <td class="xl66" x:str>地产建筑业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>2321.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>2321.HK</td>
     <td class="xl66" x:str>双财庄</td>
     <td class="xl67" x:num>0.39</td>
     <td class="xl67" x:num="9.8000000000000007">9.80</td>
@@ -8354,8 +8310,8 @@ td
     <td class="xl66" x:str>支援服务</td>
     <td class="xl66" x:str>非必需性消费</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>0598.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>0598.HK</td>
     <td class="xl66" x:str>中国外运</td>
     <td class="xl67" x:num>4.67</td>
     <td class="xl67" x:num>9.65</td>
@@ -8728,8 +8684,8 @@ td
     <td class="xl66" x:str>消费者主要零售商</td>
     <td class="xl66" x:str>必需性消费</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>1785.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>1785.HK</td>
     <td class="xl66" x:str>成都高速</td>
     <td class="xl67" x:num>2.29</td>
     <td class="xl67" x:num>9.39</td>
@@ -8932,8 +8888,8 @@ td
     <td class="xl66" x:str>药品及生物科技</td>
     <td class="xl66" x:str>医疗保健业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>1475.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>1475.HK</td>
     <td class="xl66" x:str>日清食品</td>
     <td class="xl67" x:num="5.2000000000000002">5.20</td>
     <td class="xl67" x:num>9.19</td>
@@ -9102,8 +9058,8 @@ td
     <td class="xl66" x:str>医疗保健设备和服务</td>
     <td class="xl66" x:str>医疗保健业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>6868.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>6868.HK</td>
     <td class="xl66" x:str>天福</td>
     <td class="xl67" x:num>4.58</td>
     <td class="xl67" x:num>8.97</td>
@@ -9306,8 +9262,8 @@ td
     <td class="xl66" x:str>工业工程</td>
     <td class="xl66" x:str>工业</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>0995.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>0995.HK</td>
     <td class="xl66" x:str>安徽皖通高速公路</td>
     <td class="xl67" x:num>9.98</td>
     <td class="xl67" x:num>8.78</td>
@@ -9323,8 +9279,8 @@ td
     <td class="xl66" x:str>工用运输</td>
     <td class="xl66" x:str>工业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>0831.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>0831.HK</td>
     <td class="xl66" x:str>利亚零售</td>
     <td class="xl67" x:num>0.75</td>
     <td class="xl67" x:num>8.77</td>
@@ -9867,8 +9823,8 @@ td
     <td class="xl66" x:str>地产</td>
     <td class="xl66" x:str>地产建筑业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>0828.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>0828.HK</td>
     <td class="xl66" x:str>王朝酒业</td>
     <td class="xl67" x:num>0.28</td>
     <td class="xl67" x:num>8.29</td>
@@ -9935,8 +9891,8 @@ td
     <td class="xl66" x:str>医疗保健设备和服务</td>
     <td class="xl66" x:str>医疗保健业</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>6117.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>6117.HK</td>
     <td class="xl66" x:str>日照港裕廊</td>
     <td class="xl67" x:num="0.59999999999999998">0.60</td>
     <td class="xl67" x:num>8.25</td>
@@ -9969,8 +9925,8 @@ td
     <td class="xl66" x:str>建筑</td>
     <td class="xl66" x:str>地产建筑业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>2119.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>2119.HK</td>
     <td class="xl66" x:str>捷荣国际控股</td>
     <td class="xl67" x:num="0.59999999999999998">0.60</td>
     <td class="xl67" x:num>8.23</td>
@@ -10377,8 +10333,8 @@ td
     <td class="xl66" x:str>软件服务</td>
     <td class="xl66" x:str>资讯科技业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>2517.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>2517.HK</td>
     <td class="xl66" x:str>锅圈</td>
     <td class="xl67" x:num>5.45</td>
     <td class="xl67" x:num>7.94</td>
@@ -10581,8 +10537,8 @@ td
     <td class="xl66" x:str>工用支援</td>
     <td class="xl66" x:str>工业</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>6123.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>6123.HK</td>
     <td class="xl66" x:str>圆通国际快递</td>
     <td class="xl67" x:num>1.45</td>
     <td class="xl67" x:num="7.7999999999999998">7.80</td>
@@ -10734,8 +10690,8 @@ td
     <td class="xl66" x:str>一般金属及矿石</td>
     <td class="xl66" x:str>原材料业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>1876.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>1876.HK</td>
     <td class="xl66" x:str>百威亚太</td>
     <td class="xl67" x:num>11.34</td>
     <td class="xl67" x:num>7.71</td>
@@ -10768,8 +10724,8 @@ td
     <td class="xl66" x:str>建筑</td>
     <td class="xl66" x:str>地产建筑业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>2411.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>2411.HK</td>
     <td class="xl66" x:str>百果园集团</td>
     <td class="xl67" x:num="3.2000000000000002">3.20</td>
     <td class="xl67" x:num>7.69</td>
@@ -10921,8 +10877,8 @@ td
     <td class="xl66" x:str>工用支援</td>
     <td class="xl66" x:str>工业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>1767.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>1767.HK</td>
     <td class="xl66" x:str>TS Wonders</td>
     <td class="xl67" x:num="0.20000000000000001">0.20</td>
     <td class="xl67" x:num>7.54</td>
@@ -10938,8 +10894,8 @@ td
     <td class="xl66" x:str>食物饮品</td>
     <td class="xl66" x:str>必需性消费</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>2409.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>2409.HK</td>
     <td class="xl66" x:str>洲际船务</td>
     <td class="xl67" x:num>3.66</td>
     <td class="xl67" x:num>7.52</td>
@@ -11057,8 +11013,8 @@ td
     <td class="xl66" x:str>工业工程</td>
     <td class="xl66" x:str>工业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>6683.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>6683.HK</td>
     <td class="xl66" x:str>巨星传奇</td>
     <td class="xl67" x:num>11.24</td>
     <td class="xl67" x:num>7.32</td>
@@ -11074,8 +11030,8 @@ td
     <td class="xl66" x:str>食物饮品</td>
     <td class="xl66" x:str>必需性消费</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>2130.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>2130.HK</td>
     <td class="xl66" x:str>嘉泓物流</td>
     <td class="xl67" x:num>3.75</td>
     <td class="xl67" x:num="7.2999999999999998">7.30</td>
@@ -11193,8 +11149,8 @@ td
     <td class="xl66" x:str>工用支援</td>
     <td class="xl66" x:str>工业</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>2129.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>2129.HK</td>
     <td class="xl66" x:str>Legion Conso</td>
     <td class="xl67" x:num>0.11</td>
     <td class="xl67" x:num>7.22</td>
@@ -11227,8 +11183,8 @@ td
     <td class="xl66" x:str>纺织及服饰</td>
     <td class="xl66" x:str>非必需性消费</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>0177.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>0177.HK</td>
     <td class="xl66" x:str>江苏宁沪高速公路</td>
     <td class="xl67" x:num="8.3000000000000007">8.30</td>
     <td class="xl67" x:num>7.19</td>
@@ -11346,8 +11302,8 @@ td
     <td class="xl66" x:str>医疗保健设备和服务</td>
     <td class="xl66" x:str>医疗保健业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>6911.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>6911.HK</td>
     <td class="xl66" x:str>澜沧古茶</td>
     <td class="xl67" x:num>13.38</td>
     <td class="xl67" x:num>7.07</td>
@@ -11516,8 +11472,8 @@ td
     <td class="xl66" x:str>其他金融</td>
     <td class="xl66" x:str>金融业</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>0351.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>0351.HK</td>
     <td class="xl66" x:str>亚洲能源物流</td>
     <td class="xl67" x:num>0.24</td>
     <td class="xl67" x:num>6.88</td>
@@ -12111,8 +12067,8 @@ td
     <td class="xl66" x:str>软件服务</td>
     <td class="xl66" x:str>资讯科技业</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>6119.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>6119.HK</td>
     <td class="xl66" x:str>天源集团</td>
     <td class="xl67" x:num>0.49</td>
     <td class="xl67" x:num>6.46</td>
@@ -12145,8 +12101,8 @@ td
     <td class="xl66" x:str>媒体及娱乐</td>
     <td class="xl66" x:str>非必需性消费</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>3369.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>3369.HK</td>
     <td class="xl66" x:str>秦港股份</td>
     <td class="xl67" x:num>1.76</td>
     <td class="xl67" x:num>6.45</td>
@@ -12570,8 +12526,8 @@ td
     <td class="xl66" x:str>家庭电器及用品</td>
     <td class="xl66" x:str>非必需性消费</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>0737.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>0737.HK</td>
     <td class="xl66" x:str>湾区发展</td>
     <td class="xl67" x:num>1.97</td>
     <td class="xl67" x:num>6.12</td>
@@ -12587,8 +12543,8 @@ td
     <td class="xl66" x:str>工用运输</td>
     <td class="xl66" x:str>工业</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>80737.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>80737.HK</td>
     <td class="xl66" x:str>湾区发展-R</td>
     <td class="xl67" x:num>1.79</td>
     <td class="xl67" x:num>6.12</td>
@@ -12893,8 +12849,8 @@ td
     <td class="xl66" x:str>建筑</td>
     <td class="xl66" x:str>地产建筑业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>2319.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>2319.HK</td>
     <td class="xl66" x:str>蒙牛乳业</td>
     <td class="xl67" x:num>17.02</td>
     <td class="xl67" x:num>5.98</td>
@@ -12927,8 +12883,8 @@ td
     <td class="xl66" x:str>工用支援</td>
     <td class="xl66" x:str>工业</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>1732.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>1732.HK</td>
     <td class="xl66" x:str>象兴国际</td>
     <td class="xl67" x:num>0.14</td>
     <td class="xl67" x:num>5.96</td>
@@ -12995,8 +12951,8 @@ td
     <td class="xl66" x:str>工业工程</td>
     <td class="xl66" x:str>工业</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>0576.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>0576.HK</td>
     <td class="xl66" x:str>浙江沪杭甬</td>
     <td class="xl67" x:num="5.2000000000000002">5.20</td>
     <td class="xl67" x:num>5.89</td>
@@ -13607,8 +13563,8 @@ td
     <td class="xl66" x:str>药品及生物科技</td>
     <td class="xl66" x:str>医疗保健业</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>1138.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>1138.HK</td>
     <td class="xl66" x:str>中远海能</td>
     <td class="xl67" x:num>10.92</td>
     <td class="xl67" x:num>5.43</td>
@@ -14270,8 +14226,8 @@ td
     <td class="xl66" x:str>软件服务</td>
     <td class="xl66" x:str>资讯科技业</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>2343.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>2343.HK</td>
     <td class="xl66" x:str>太平洋航运</td>
     <td class="xl67" x:num>2.93</td>
     <td class="xl67" x:num>4.91</td>
@@ -14372,8 +14328,8 @@ td
     <td class="xl66" x:str>原材料</td>
     <td class="xl66" x:str>原材料业</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>0548.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>0548.HK</td>
     <td class="xl66" x:str>深圳高速公路股份</td>
     <td class="xl67" x:num>7.72</td>
     <td class="xl67" x:num>4.83</td>
@@ -14389,8 +14345,8 @@ td
     <td class="xl66" x:str>工用运输</td>
     <td class="xl66" x:str>工业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>0288.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>0288.HK</td>
     <td class="xl66" x:str>万洲国际</td>
     <td class="xl67" x:num="5.7000000000000002">5.70</td>
     <td class="xl67" x:num>4.83</td>
@@ -14474,8 +14430,8 @@ td
     <td class="xl66" x:str>建筑</td>
     <td class="xl66" x:str>地产建筑业</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>2169.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>2169.HK</td>
     <td class="xl66" x:str>沧港铁路</td>
     <td class="xl67" x:num>0.86</td>
     <td class="xl67" x:num="4.7999999999999998">4.80</td>
@@ -14593,8 +14549,8 @@ td
     <td class="xl66" x:str>农业产品</td>
     <td class="xl66" x:str>必需性消费</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>1576.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>1576.HK</td>
     <td class="xl66" x:str>齐鲁高速</td>
     <td class="xl67" x:num>2.24</td>
     <td class="xl67" x:num>4.69</td>
@@ -14661,8 +14617,8 @@ td
     <td class="xl66" x:str>工业工程</td>
     <td class="xl66" x:str>工业</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>0144.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>0144.HK</td>
     <td class="xl66" x:str>招商局港口</td>
     <td class="xl67" x:num>11.76</td>
     <td class="xl67" x:num>4.62</td>
@@ -14797,8 +14753,8 @@ td
     <td class="xl66" x:str>工业工程</td>
     <td class="xl66" x:str>工业</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>3877.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>3877.HK</td>
     <td class="xl66" x:str>中国船舶租赁</td>
     <td class="xl67" x:num>1.47</td>
     <td class="xl67" x:num>4.56</td>
@@ -14899,8 +14855,8 @@ td
     <td class="xl66" x:str>汽车</td>
     <td class="xl66" x:str>非必需性消费</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>1748.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>1748.HK</td>
     <td class="xl66" x:str>信源企业集团</td>
     <td class="xl67" x:num>3.88</td>
     <td class="xl67" x:num>4.54</td>
@@ -15307,8 +15263,8 @@ td
     <td class="xl66" x:str>旅游及消闲设施</td>
     <td class="xl66" x:str>非必需性消费</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>8509.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>8509.HK</td>
     <td class="xl66" x:str>威扬酒业控股</td>
     <td class="xl67" x:num>0.44</td>
     <td class="xl67" x:num>4.25</td>
@@ -15477,8 +15433,8 @@ td
     <td class="xl66" x:str>旅游及消闲设施</td>
     <td class="xl66" x:str>非必需性消费</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>1442.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>1442.HK</td>
     <td class="xl66" x:str>鹰辉物流</td>
     <td class="xl67" x:num>0.35</td>
     <td class="xl67" x:num>4.17</td>
@@ -15545,8 +15501,8 @@ td
     <td class="xl66" x:str>建筑</td>
     <td class="xl66" x:str>地产建筑业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>1587.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>1587.HK</td>
     <td class="xl66" x:str>欣融国际</td>
     <td class="xl67" x:num>0.45</td>
     <td class="xl67" x:num>4.14</td>
@@ -15834,8 +15790,8 @@ td
     <td class="xl66" x:str>纺织及服饰</td>
     <td class="xl66" x:str>非必需性消费</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>1285.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>1285.HK</td>
     <td class="xl66" x:str>嘉士利集团</td>
     <td class="xl67" x:num>1.56</td>
     <td class="xl67" x:num>3.95</td>
@@ -15970,8 +15926,8 @@ td
     <td class="xl66" x:str>旅游及消闲设施</td>
     <td class="xl66" x:str>非必需性消费</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>2516.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>2516.HK</td>
     <td class="xl66" x:str>泛远国际</td>
     <td class="xl67" x:num>0.49</td>
     <td class="xl67" x:num>3.86</td>
@@ -16055,8 +16011,8 @@ td
     <td class="xl66" x:str>医疗保健设备和服务</td>
     <td class="xl66" x:str>医疗保健业</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>1737.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>1737.HK</td>
     <td class="xl66" x:str>亚洲实业集团</td>
     <td class="xl67" x:num="0.10000000000000001">0.10</td>
     <td class="xl67" x:num>3.83</td>
@@ -16259,8 +16215,8 @@ td
     <td class="xl66" x:str>公用事业</td>
     <td class="xl66" x:str>公用事业</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>1199.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>1199.HK</td>
     <td class="xl66" x:str>中远海运港口</td>
     <td class="xl67" x:num="5.2999999999999998">5.30</td>
     <td class="xl67" x:num>3.71</td>
@@ -16293,8 +16249,8 @@ td
     <td class="xl66" x:str>地产</td>
     <td class="xl66" x:str>地产建筑业</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>0544.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>0544.HK</td>
     <td class="xl66" x:str>大同集团</td>
     <td class="xl67" x:num>0.13</td>
     <td class="xl67" x:num="3.7000000000000002">3.70</td>
@@ -16633,8 +16589,8 @@ td
     <td class="xl66" x:str>药品及生物科技</td>
     <td class="xl66" x:str>医疗保健业</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>3382.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>3382.HK</td>
     <td class="xl66" x:str>天津港发展</td>
     <td class="xl67" x:num>0.67</td>
     <td class="xl67" x:num>3.57</td>
@@ -16752,8 +16708,8 @@ td
     <td class="xl66" x:str>工业工程</td>
     <td class="xl66" x:str>工业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>8146.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>8146.HK</td>
     <td class="xl66" x:str>怡园酒业</td>
     <td class="xl67" x:num>0.14</td>
     <td class="xl67" x:num>3.51</td>
@@ -16956,8 +16912,8 @@ td
     <td class="xl66" x:str>工业工程</td>
     <td class="xl66" x:str>工业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>0142.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>0142.HK</td>
     <td class="xl66" x:str>第一太平</td>
     <td class="xl67" x:num>3.77</td>
     <td class="xl67" x:num>3.36</td>
@@ -17194,8 +17150,8 @@ td
     <td class="xl66" x:str>综合企业</td>
     <td class="xl66" x:str>综合企业</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>0560.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>0560.HK</td>
     <td class="xl66" x:str>珠江船务</td>
     <td class="xl67" x:num>0.82</td>
     <td class="xl67" x:num>3.22</td>
@@ -17347,8 +17303,8 @@ td
     <td class="xl66" x:str>公用事业</td>
     <td class="xl66" x:str>公用事业</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>2880.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>2880.HK</td>
     <td class="xl66" x:str>辽港股份</td>
     <td class="xl67" x:num>0.65</td>
     <td class="xl67" x:num>3.15</td>
@@ -17364,8 +17320,8 @@ td
     <td class="xl66" x:str>工用运输</td>
     <td class="xl66" x:str>工业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>3318.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>3318.HK</td>
     <td class="xl66" x:str>中国波顿</td>
     <td class="xl67" x:num>2.48</td>
     <td class="xl67" x:num>3.14</td>
@@ -17721,8 +17677,8 @@ td
     <td class="xl66" x:str>一般金属及矿石</td>
     <td class="xl66" x:str>原材料业</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>0636.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>0636.HK</td>
     <td class="xl66" x:str>嘉里物流</td>
     <td class="xl67" x:num>8.53</td>
     <td class="xl67" x:num="3">3.00</td>
@@ -17772,8 +17728,8 @@ td
     <td class="xl66" x:str>黄金及贵金属</td>
     <td class="xl66" x:str>原材料业</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>1052.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>1052.HK</td>
     <td class="xl66" x:str>越秀交通基建</td>
     <td class="xl67" x:num>4.25</td>
     <td class="xl67" x:num>2.99</td>
@@ -18180,8 +18136,8 @@ td
     <td class="xl66" x:str>建筑</td>
     <td class="xl66" x:str>地产建筑业</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>1292.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>1292.HK</td>
     <td class="xl66" x:str>长安民生物流</td>
     <td class="xl67" x:num>2.47</td>
     <td class="xl67" x:num>2.71</td>
@@ -18265,8 +18221,8 @@ td
     <td class="xl66" x:str>药品及生物科技</td>
     <td class="xl66" x:str>医疗保健业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>1458.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>1458.HK</td>
     <td class="xl66" x:str>周黑鸭</td>
     <td class="xl67" x:num>2.03</td>
     <td class="xl67" x:num>2.68</td>
@@ -18809,8 +18765,8 @@ td
     <td class="xl66" x:str>其他金融</td>
     <td class="xl66" x:str>金融业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>1717.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>1717.HK</td>
     <td class="xl66" x:str>澳优</td>
     <td class="xl67" x:num="2.2999999999999998">2.30</td>
     <td class="xl67" x:num="2.2999999999999998">2.30</td>
@@ -18860,8 +18816,8 @@ td
     <td class="xl66" x:str>原材料</td>
     <td class="xl66" x:str>原材料业</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>0107.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>0107.HK</td>
     <td class="xl66" x:str>四川成渝高速公路</td>
     <td class="xl67" x:num>3.48</td>
     <td class="xl67" x:num>2.24</td>
@@ -18962,8 +18918,8 @@ td
     <td class="xl66" x:str>工用支援</td>
     <td class="xl66" x:str>工业</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>0152.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>0152.HK</td>
     <td class="xl66" x:str>深圳国际</td>
     <td class="xl67" x:num="7.0999999999999996">7.10</td>
     <td class="xl67" x:num>2.21</td>
@@ -19319,8 +19275,8 @@ td
     <td class="xl66" x:str>公用事业</td>
     <td class="xl66" x:str>公用事业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>2317.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>2317.HK</td>
     <td class="xl66" x:str>味丹国际</td>
     <td class="xl67" x:num>0.53</td>
     <td class="xl67" x:num>2.03</td>
@@ -19863,8 +19819,8 @@ td
     <td class="xl66" x:str>专业零售</td>
     <td class="xl66" x:str>非必需性消费</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>0336.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>0336.HK</td>
     <td class="xl66" x:str>华宝国际</td>
     <td class="xl67" x:num="2.7000000000000002">2.70</td>
     <td class="xl67" x:num>1.78</td>
@@ -20016,8 +19972,8 @@ td
     <td class="xl66" x:str>其他金融</td>
     <td class="xl66" x:str>金融业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>0374.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>0374.HK</td>
     <td class="xl66" x:str>四洲集团</td>
     <td class="xl67" x:num="2.5">2.50</td>
     <td class="xl67" x:num>1.71</td>
@@ -20662,8 +20618,8 @@ td
     <td class="xl66" x:str>纺织及服饰</td>
     <td class="xl66" x:str>非必需性消费</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>1432.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>1432.HK</td>
     <td class="xl66" x:str>中国圣牧</td>
     <td class="xl67" x:num="0.20000000000000001">0.20</td>
     <td class="xl67" x:num>1.43</td>
@@ -21053,8 +21009,8 @@ td
     <td class="xl66" x:str>地产</td>
     <td class="xl66" x:str>地产建筑业</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>1719.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>1719.HK</td>
     <td class="xl66" x:str>中国通商集团</td>
     <td class="xl67" x:num>0.79</td>
     <td class="xl67" x:num>1.31</td>
@@ -21206,8 +21162,8 @@ td
     <td class="xl66" x:str>工业工程</td>
     <td class="xl66" x:str>工业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>0345.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>0345.HK</td>
     <td class="xl73" x:str>维他奶国际</td>
     <td class="xl67" x:num="6.2999999999999998">6.30</td>
     <td class="xl67" x:num>1.26</td>
@@ -21359,8 +21315,8 @@ td
     <td class="xl66" x:str>纺织及服饰</td>
     <td class="xl66" x:str>非必需性消费</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>2866.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>2866.HK</td>
     <td class="xl66" x:str>中远海发</td>
     <td class="xl67" x:num>0.99</td>
     <td class="xl67" x:num>1.17</td>
@@ -21546,8 +21502,8 @@ td
     <td class="xl66" x:str>地产</td>
     <td class="xl66" x:str>地产建筑业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>0829.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>0829.HK</td>
     <td class="xl66" x:str>神冠控股</td>
     <td class="xl67" x:num>0.32</td>
     <td class="xl67" x:num>1.09</td>
@@ -22158,8 +22114,8 @@ td
     <td class="xl66" x:str>公用事业</td>
     <td class="xl66" x:str>公用事业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>0948.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>0948.HK</td>
     <td class="xl66" x:str>阿尔法企业</td>
     <td class="xl67" x:num>0.35</td>
     <td class="xl67" x:num>0.82</td>
@@ -22226,8 +22182,8 @@ td
     <td class="xl66" x:str>地产</td>
     <td class="xl66" x:str>地产建筑业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>1927.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>1927.HK</td>
     <td class="xl66" x:str>久久王</td>
     <td class="xl67" x:num>0.17</td>
     <td class="xl67" x:num>0.79</td>
@@ -22311,8 +22267,8 @@ td
     <td class="xl66" x:str>地产</td>
     <td class="xl66" x:str>地产建筑业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>1117.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>1117.HK</td>
     <td class="xl66" x:str>现代牧业</td>
     <td class="xl67" x:num>0.71</td>
     <td class="xl67" x:num>0.75</td>
@@ -23484,8 +23440,8 @@ td
     <td class="xl66" x:str>地产</td>
     <td class="xl66" x:str>地产建筑业</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>1549.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>1549.HK</td>
     <td class="xl66" x:str>永丰集团控股</td>
     <td class="xl67" x:num>0.11</td>
     <td class="xl67" x:num>0.19</td>
@@ -23603,8 +23559,8 @@ td
     <td class="xl66" x:str>工业工程</td>
     <td class="xl66" x:str>工业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>0060.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>0060.HK</td>
     <td class="xl66" x:str>香港食品投资</td>
     <td class="xl67" x:num="0.59999999999999998">0.60</td>
     <td class="xl67" x:num>0.17</td>
@@ -24011,8 +23967,8 @@ td
     <td class="xl66" x:str>公用事业</td>
     <td class="xl66" x:str>公用事业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>1583.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>1583.HK</td>
     <td class="xl66" x:str>亲亲食品</td>
     <td class="xl67" x:num>0.82</td>
     <td class="xl67" x:num>-0.14</td>
@@ -24674,8 +24630,8 @@ td
     <td class="xl66" x:str>旅游及消闲设施</td>
     <td class="xl66" x:str>非必需性消费</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>8489.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>8489.HK</td>
     <td class="xl66" x:str>裕程物流</td>
     <td class="xl67" x:num>0.17</td>
     <td class="xl67" x:num>-0.86</td>
@@ -24878,8 +24834,8 @@ td
     <td class="xl66" x:str>建筑</td>
     <td class="xl66" x:str>地产建筑业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>0834.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>0834.HK</td>
     <td class="xl66" x:str>康大食品</td>
     <td class="xl67" x:num="0.20000000000000001">0.20</td>
     <td class="xl67" x:num>-1.03</td>
@@ -25031,8 +24987,8 @@ td
     <td class="xl66" x:str>家庭电器及用品</td>
     <td class="xl66" x:str>非必需性消费</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>1695.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>1695.HK</td>
     <td class="xl66" x:str>椰丰集团</td>
     <td class="xl67" x:num>0.05</td>
     <td class="xl67" x:num>-1.19</td>
@@ -25524,8 +25480,8 @@ td
     <td class="xl66" x:str>软件服务</td>
     <td class="xl66" x:str>资讯科技业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>8179.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>8179.HK</td>
     <td class="xl66" x:str>百利达集团控股</td>
     <td class="xl67" x:num>0.08</td>
     <td class="xl67" x:num>-1.86</td>
@@ -26204,8 +26160,8 @@ td
     <td class="xl66" x:str>地产</td>
     <td class="xl66" x:str>地产建筑业</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>0862.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>0862.HK</td>
     <td class="xl66" x:str>远见控股</td>
     <td class="xl67" x:num>0.02</td>
     <td class="xl67" x:num>-2.35</td>
@@ -26918,8 +26874,8 @@ td
     <td class="xl66" x:str>农业产品</td>
     <td class="xl66" x:str>必需性消费</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>9858.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>9858.HK</td>
     <td class="xl66" x:str>优然牧业</td>
     <td class="xl67" x:num>1.34</td>
     <td class="xl67" x:num>-2.88</td>
@@ -27309,8 +27265,8 @@ td
     <td class="xl66" x:str>工业工程</td>
     <td class="xl66" x:str>工业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>8362.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>8362.HK</td>
     <td class="xl66" x:str>运兴泰集团</td>
     <td class="xl67" x:num>0.07</td>
     <td class="xl67" x:num>-3.31</td>
@@ -28363,8 +28319,8 @@ td
     <td class="xl66" x:str>媒体及娱乐</td>
     <td class="xl66" x:str>非必需性消费</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>8413.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>8413.HK</td>
     <td class="xl66" x:str>亚洲富思</td>
     <td class="xl67" x:num>0.14</td>
     <td class="xl67" x:num>-4.44</td>
@@ -28397,8 +28353,8 @@ td
     <td class="xl66" x:str>地产</td>
     <td class="xl66" x:str>地产建筑业</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>2482.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>2482.HK</td>
     <td class="xl66" x:str>维天运通</td>
     <td class="xl67" x:num>0.71</td>
     <td class="xl67" x:num>-4.45</td>
@@ -28975,8 +28931,8 @@ td
     <td class="xl66" x:str>资讯科技器材</td>
     <td class="xl66" x:str>资讯科技业</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>8020.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>8020.HK</td>
     <td class="xl66" x:str>宏海控股集团</td>
     <td class="xl67" x:num>0.02</td>
     <td class="xl67" x:num>-5.15</td>
@@ -29179,8 +29135,8 @@ td
     <td class="xl66" x:str>建筑</td>
     <td class="xl66" x:str>地产建筑业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>0472.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>0472.HK</td>
     <td class="xl66" x:str>新丝路文旅</td>
     <td class="xl67" x:num>0.19</td>
     <td class="xl67" x:num>-5.35</td>
@@ -29400,8 +29356,8 @@ td
     <td class="xl66" x:str>其他金融</td>
     <td class="xl66" x:str>金融业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>8491.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>8491.HK</td>
     <td class="xl66" x:str>Cool Link</td>
     <td class="xl67" x:num>0.59</td>
     <td class="xl67" x:num="-5.5999999999999996">-5.60</td>
@@ -29434,8 +29390,8 @@ td
     <td class="xl66" x:str>媒体及娱乐</td>
     <td class="xl66" x:str>非必需性消费</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>1431.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>1431.HK</td>
     <td class="xl66" x:str>原生态牧业</td>
     <td class="xl67" x:num>0.11</td>
     <td class="xl67" x:num>-5.64</td>
@@ -29553,8 +29509,8 @@ td
     <td class="xl66" x:str>家庭电器及用品</td>
     <td class="xl66" x:str>非必需性消费</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>1903.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>1903.HK</td>
     <td class="xl66" x:str>JBB Builders</td>
     <td class="xl67" x:num>0.49</td>
     <td class="xl67" x:num>-5.81</td>
@@ -29672,8 +29628,8 @@ td
     <td class="xl66" x:str>药品及生物科技</td>
     <td class="xl66" x:str>医疗保健业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>2425.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>2425.HK</td>
     <td class="xl66" x:str>澳亚集团</td>
     <td class="xl67" x:num>1.08</td>
     <td class="xl67" x:num>-6.03</td>
@@ -29740,8 +29696,8 @@ td
     <td class="xl66" x:str>媒体及娱乐</td>
     <td class="xl66" x:str>非必需性消费</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>1084.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>1084.HK</td>
     <td class="xl66" x:str>绿新亲水胶体</td>
     <td class="xl67" x:num>0.77</td>
     <td class="xl67" x:num>-6.16</td>
@@ -29825,8 +29781,8 @@ td
     <td class="xl66" x:str>地产</td>
     <td class="xl66" x:str>地产建筑业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>1259.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>1259.HK</td>
     <td class="xl66" x:str>未来发展控股</td>
     <td class="xl67" x:num>0.08</td>
     <td class="xl67" x:num>-6.23</td>
@@ -29978,8 +29934,8 @@ td
     <td class="xl66" x:str>地产</td>
     <td class="xl66" x:str>地产建筑业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>8241.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>8241.HK</td>
     <td class="xl66" x:str>英记茶庄集团</td>
     <td class="xl67" x:num>0.19</td>
     <td class="xl67" x:num>-6.38</td>
@@ -30063,8 +30019,8 @@ td
     <td class="xl66" x:str>汽车</td>
     <td class="xl66" x:str>非必需性消费</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>1145.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>1145.HK</td>
     <td class="xl66" x:str>勇利投资</td>
     <td class="xl67" x:num>0.07</td>
     <td class="xl67" x:num>-6.52</td>
@@ -30964,8 +30920,8 @@ td
     <td class="xl66" x:str>媒体及娱乐</td>
     <td class="xl66" x:str>非必需性消费</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>0954.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>0954.HK</td>
     <td class="xl66" x:str>常茂生物</td>
     <td class="xl67" x:num>0.44</td>
     <td class="xl67" x:num>-7.78</td>
@@ -31831,8 +31787,8 @@ td
     <td class="xl66" x:str>地产</td>
     <td class="xl66" x:str>地产建筑业</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>0925.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>0925.HK</td>
     <td class="xl66" x:str>北京建设</td>
     <td class="xl67" x:num>0.04</td>
     <td class="xl67" x:num>-9.28</td>
@@ -32069,8 +32025,8 @@ td
     <td class="xl66" x:str>软件服务</td>
     <td class="xl66" x:str>资讯科技业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>1115.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>1115.HK</td>
     <td class="xl66" x:str>西藏水资源</td>
     <td class="xl67" x:num>0.29</td>
     <td class="xl67" x:num>-9.77</td>
@@ -32375,8 +32331,8 @@ td
     <td class="xl66" x:str>地产</td>
     <td class="xl66" x:str>地产建筑业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>1446.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>1446.HK</td>
     <td class="xl66" x:str>鸿福堂</td>
     <td class="xl67" x:num>0.17</td>
     <td class="xl67" x:num>-10.31</td>
@@ -32545,8 +32501,8 @@ td
     <td class="xl66" x:str>药品及生物科技</td>
     <td class="xl66" x:str>医疗保健业</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>0137.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>0137.HK</td>
     <td class="xl66" x:str>金辉集团</td>
     <td class="xl67" x:num>0.71</td>
     <td class="xl67" x:num>-10.74</td>
@@ -33140,8 +33096,8 @@ td
     <td class="xl66" x:str>其他金融</td>
     <td class="xl66" x:str>金融业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>0197.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>0197.HK</td>
     <td class="xl66" x:str>亨泰</td>
     <td class="xl67" x:num>0.36</td>
     <td class="xl67" x:num>-11.95</td>
@@ -33514,8 +33470,8 @@ td
     <td class="xl66" x:str>工用支援</td>
     <td class="xl66" x:str>工业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>1389.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>1389.HK</td>
     <td class="xl66" x:str>美捷汇控股</td>
     <td class="xl67" x:num>0.13</td>
     <td class="xl67" x:num>-12.63</td>
@@ -33820,8 +33776,8 @@ td
     <td class="xl66" x:str>地产</td>
     <td class="xl66" x:str>地产建筑业</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>8035.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>8035.HK</td>
     <td class="xl66" x:str>骏高控股</td>
     <td class="xl67" x:num>0.12</td>
     <td class="xl67" x:num>-13.28</td>
@@ -34279,8 +34235,8 @@ td
     <td class="xl66" x:str>支援服务</td>
     <td class="xl66" x:str>非必需性消费</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>1262.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>1262.HK</td>
     <td class="xl66" x:str>蜡笔小新食品</td>
     <td class="xl67" x:num>0.12</td>
     <td class="xl67" x:num="-14.699999999999999">-14.70</td>
@@ -34500,8 +34456,8 @@ td
     <td class="xl66" x:str>半导体</td>
     <td class="xl66" x:str>资讯科技业</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>3683.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>3683.HK</td>
     <td class="xl66" x:str>荣丰亿控股</td>
     <td class="xl67" x:num>0.23</td>
     <td class="xl67" x:num>-15.51</td>
@@ -35214,8 +35170,8 @@ td
     <td class="xl66" x:str>媒体及娱乐</td>
     <td class="xl66" x:str>非必需性消费</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>0389.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>0389.HK</td>
     <td class="xl66" x:str>通天酒业</td>
     <td class="xl67" x:num>0.54</td>
     <td class="xl67" x:num>-18.07</td>
@@ -35928,8 +35884,8 @@ td
     <td class="xl66" x:str>医疗保健设备和服务</td>
     <td class="xl66" x:str>医疗保健业</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>1529.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>1529.HK</td>
     <td class="xl66" x:str>乐氏国际控股</td>
     <td class="xl67" x:num>0.13</td>
     <td class="xl67" x:num>-20.55</td>
@@ -36098,8 +36054,8 @@ td
     <td class="xl66" x:str>其他金融</td>
     <td class="xl66" x:str>金融业</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>0498.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>0498.HK</td>
     <td class="xl66" x:str>蓝河控股</td>
     <td class="xl67" x:num>0.16</td>
     <td class="xl67" x:num>-21.21</td>
@@ -36285,8 +36241,8 @@ td
     <td class="xl66" x:str>药品及生物科技</td>
     <td class="xl66" x:str>医疗保健业</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>8620.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>8620.HK</td>
     <td class="xl66" x:str>亚洲速运</td>
     <td class="xl67" x:num>0.13</td>
     <td class="xl67" x:num>-22.34</td>
@@ -37594,8 +37550,8 @@ td
     <td class="xl66" x:str>软件服务</td>
     <td class="xl66" x:str>资讯科技业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>2429.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>2429.HK</td>
     <td class="xl66" x:str>友宝在线</td>
     <td class="xl67" x:num>15.98</td>
     <td class="xl67" x:num="-31.5">-31.50</td>
@@ -38036,8 +37992,8 @@ td
     <td class="xl66" x:str>家庭电器及用品</td>
     <td class="xl66" x:str>非必需性消费</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>8430.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>8430.HK</td>
     <td class="xl66" x:str>春能控股</td>
     <td class="xl67" x:num>0.17</td>
     <td class="xl67" x:num>-35.27</td>
@@ -38614,8 +38570,8 @@ td
     <td class="xl66" x:str>媒体及娱乐</td>
     <td class="xl66" x:str>非必需性消费</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>8292.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>8292.HK</td>
     <td class="xl66" x:str>盛良物流</td>
     <td class="xl67" x:num>0.07</td>
     <td class="xl67" x:num>-41.49</td>
@@ -38665,8 +38621,8 @@ td
     <td class="xl66" x:str>石油及天然气</td>
     <td class="xl66" x:str>能源业</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>8482.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>8482.HK</td>
     <td class="xl66" x:str>万励达</td>
     <td class="xl67" x:num>0.03</td>
     <td class="xl67" x:num>-41.92</td>
@@ -40382,8 +40338,8 @@ td
     <td class="xl66" x:str>旅游及消闲设施</td>
     <td class="xl66" x:str>非必需性消费</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>0756.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>0756.HK</td>
     <td class="xl66" x:str>森美控股</td>
     <td class="xl67" x:num>0.47</td>
     <td class="xl67" x:num>-80.52</td>
@@ -40518,8 +40474,8 @@ td
     <td class="xl66" x:str>专业零售</td>
     <td class="xl66" x:str>非必需性消费</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>0030.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>0030.HK</td>
     <td class="xl66" x:str>云白国际</td>
     <td class="xl67" x:num>0.13</td>
     <td class="xl67" x:num>-95.94</td>
@@ -40705,8 +40661,8 @@ td
     <td class="xl66" x:str>资讯科技器材</td>
     <td class="xl66" x:str>资讯科技业</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>2246.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>2246.HK</td>
     <td class="xl66" x:str>快狗打车</td>
     <td class="xl67" x:num>0.62</td>
     <td class="xl67" x:num>-111.85</td>
@@ -40807,8 +40763,8 @@ td
     <td class="xl66" x:str>媒体及娱乐</td>
     <td class="xl66" x:str>非必需性消费</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>2226.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>2226.HK</td>
     <td class="xl66" x:str>老恒和酿造</td>
     <td class="xl67" x:num>0.44</td>
     <td class="xl67" x:num>-119.39</td>
@@ -41402,8 +41358,8 @@ td
     <td class="xl66" x:str>药品及生物科技</td>
     <td class="xl66" x:str>医疗保健业</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>1519.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>1519.HK</td>
     <td class="xl66" x:str>极兔速递-W</td>
     <td class="xl67" x:num>8.69</td>
     <td class="xl67" x:num>-776.51</td>
@@ -41878,8 +41834,8 @@ td
     <td class="xl66" x:str>综合企业</td>
     <td class="xl66" x:str>综合企业</td>
    </tr>
-   <tr height="16.80" style='height:16.80pt;'>
-    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>0269.HK</td>
+   <tr height="0" style='height:0.00pt;display:none;'>
+    <td class="xl66" height="0" style='height:0.00pt;' x:str>0269.HK</td>
     <td class="xl66" x:str>中国资源交通</td>
     <td class="xl67" x:num>0.01</td>
     <td class="xl66" x:str>--</td>
@@ -42830,8 +42786,8 @@ td
     <td class="xl66" x:str>地产</td>
     <td class="xl66" x:str>地产建筑业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>1210.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>1210.HK</td>
     <td class="xl66" x:str>克莉丝汀</td>
     <td class="xl67" x:num>0.06</td>
     <td class="xl66" x:str>--</td>
@@ -43459,8 +43415,8 @@ td
     <td class="xl66" x:str>其他金融</td>
     <td class="xl66" x:str>金融业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>1676.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>1676.HK</td>
     <td class="xl66" x:str>高地股份</td>
     <td class="xl67" x:num>1.52</td>
     <td class="xl66" x:str>--</td>
@@ -44989,8 +44945,8 @@ td
     <td class="xl66" x:str>银行</td>
     <td class="xl66" x:str>金融业</td>
    </tr>
-   <tr height="0" style='height:0.00pt;display:none;'>
-    <td class="xl66" height="0" style='height:0.00pt;' x:str>6836.HK</td>
+   <tr height="16.80" style='height:16.80pt;'>
+    <td class="xl66" height="16.80" style='height:16.80pt;' x:str>6836.HK</td>
     <td class="xl70" x:str>天韵国际控股</td>
     <td class="xl67" x:num="3.2000000000000002">3.20</td>
     <td class="xl66" x:str>--</td>
@@ -45790,11 +45746,11 @@ td
    </tr>
    <![if supportMisalignedColumns]>
     <tr width="0" style='display:none;'>
-     <td width="50" style='width:50;'></td>
+     <td width="49" style='width:49;'></td>
+     <td width="93" style='width:93;'></td>
+     <td width="111" style='width:111;'></td>
+     <td width="158" style='width:158;'></td>
      <td width="94" style='width:94;'></td>
-     <td width="113" style='width:113;'></td>
-     <td width="160" style='width:160;'></td>
-     <td width="95" style='width:95;'></td>
      <td width="64" style='width:64;'></td>
     </tr>
    <![endif]>
