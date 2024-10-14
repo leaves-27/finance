@@ -1,6 +1,6 @@
 var c_lTabs=2;
 var c_rgszSh=new Array(c_lTabs);
-c_rgszSh[0]="2024-08-27";
+c_rgszSh[0]="近12年净利润";
 c_rgszSh[1]="Sheet1";
 var g_iShCur=0;
 var g_rglTabX=new Array(c_lTabs+1);

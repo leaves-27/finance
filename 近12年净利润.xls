@@ -9,7 +9,7 @@
     <o:DocumentProperties>
      <o:Created>2024-08-27T23:13:30</o:Created>
      <o:LastAuthor>leaves-27</o:LastAuthor>
-     <o:LastSaved>2024-10-10T20:58:14</o:LastSaved>
+     <o:LastSaved>2024-10-14T20:41:35</o:LastSaved>
     </o:DocumentProperties>
     <o:CustomDocumentProperties>
      <o:ICV dt:dt="string">FF0EF0CEE1363F3E68EDCD6695B0DC73_42</o:ICV>
@@ -27,7 +27,7 @@
     <x:ExcelWorkbook>
      <x:ExcelWorksheets>
       <x:ExcelWorksheet>
-       <x:Name>2024-08-27</x:Name>
+       <x:Name>近12年净利润</x:Name>
        <x:WorksheetSource HRef="近12年净利润.files/sheet001.htm"/>
       </x:ExcelWorksheet>
       <x:ExcelWorksheet>
@@ -38,6 +38,7 @@
      <x:Stylesheet HRef="近12年净利润.files/stylesheet.css"/>
      <x:ProtectStructure>False</x:ProtectStructure>
      <x:ProtectWindows>False</x:ProtectWindows>
+     <x:SelectedSheets>0</x:SelectedSheets>
      <x:WindowHeight>13160</x:WindowHeight>
      <x:WindowWidth>27180</x:WindowWidth>
     </x:ExcelWorkbook>
@@ -45,7 +46,7 @@
      <x:Name>_FilterDatabase</x:Name>
      <x:Hidden/>
      <x:SheetIndex>1</x:SheetIndex>
-     <x:Formula>='2024-08-27'!$D$1:$D$5355</x:Formula>
+     <x:Formula>=近12年净利润!$D$1:$D$5355</x:Formula>
     </x:ExcelName>
    </xml>
   <![endif]-->
