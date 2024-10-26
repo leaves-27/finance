@@ -1,8 +1,9 @@
-var c_lTabs=2;
+var c_lTabs=3;
 var c_rgszSh=new Array(c_lTabs);
 c_rgszSh[0]="近12年总股本";
 c_rgszSh[1]="每股现金大于股价";
-var g_iShCur=0;
+c_rgszSh[2]="Sheet1";
+var g_iShCur=2;
 var g_rglTabX=new Array(c_lTabs+1);
 var g_clrs=new Array(8);
 g_clrs[0]="window";
