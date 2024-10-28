@@ -1,9 +1,10 @@
-var c_lTabs=3;
+var c_lTabs=4;
 var c_rgszSh=new Array(c_lTabs);
 c_rgszSh[0]="近12年营业成本";
 c_rgszSh[1]="调味品";
 c_rgszSh[2]="美容护理";
-var g_iShCur=2;
+c_rgszSh[3]="广告";
+var g_iShCur=0;
 var g_rglTabX=new Array(c_lTabs+1);
 var g_clrs=new Array(8);
 g_clrs[0]="window";

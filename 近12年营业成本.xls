@@ -9,7 +9,7 @@
     <o:DocumentProperties>
      <o:Created>2024-09-22T00:07:48</o:Created>
      <o:LastAuthor>leaves-27</o:LastAuthor>
-     <o:LastSaved>2024-10-27T16:46:06</o:LastSaved>
+     <o:LastSaved>2024-10-28T14:28:54</o:LastSaved>
     </o:DocumentProperties>
     <o:CustomDocumentProperties>
      <o:ICV dt:dt="string">A8EC515A3B45E90C6BF0EE66A117F16D_42</o:ICV>
@@ -21,8 +21,9 @@
   <link id="shLink" href="近12年营业成本.files/sheet001.htm">
   <link id="shLink" href="近12年营业成本.files/sheet002.htm">
   <link id="shLink" href="近12年营业成本.files/sheet003.htm">
+  <link id="shLink" href="近12年营业成本.files/sheet004.htm">
   <script src="近12年营业成本.files/js.js"></script>
-  <script type="text/javascript">window.g_iIEVer=fnGetIEVer();fnBuildFrameset(2);</script>
+  <script type="text/javascript">window.g_iIEVer=fnGetIEVer();fnBuildFrameset(0);</script>
   <!--[if gte mso 9]>
    <xml>
     <x:ExcelWorkbook>
@@ -39,9 +40,12 @@
        <x:Name>美容护理</x:Name>
        <x:WorksheetSource HRef="近12年营业成本.files/sheet003.htm"/>
       </x:ExcelWorksheet>
+      <x:ExcelWorksheet>
+       <x:Name>广告</x:Name>
+       <x:WorksheetSource HRef="近12年营业成本.files/sheet004.htm"/>
+      </x:ExcelWorksheet>
      </x:ExcelWorksheets>
      <x:Stylesheet HRef="近12年营业成本.files/stylesheet.css"/>
-     <x:ActiveSheet>2</x:ActiveSheet>
      <x:ProtectStructure>False</x:ProtectStructure>
      <x:ProtectWindows>False</x:ProtectWindows>
      <x:WindowHeight>13160</x:WindowHeight>
@@ -57,7 +61,7 @@
   <![endif]-->
  </head>
  <frameset rows="*,36" border="0" width="0" frameborder="no">
-  <frame src="近12年营业成本.files/sheet003.htm" name="frSheet" noresize/>
+  <frame src="近12年营业成本.files/sheet001.htm" name="frSheet" noresize/>
   <frame src="近12年营业成本.files/tabstrip.htm" name="frTabs" marginwidth="0" marginheight="0"/>
   <noframes>
    <body>
